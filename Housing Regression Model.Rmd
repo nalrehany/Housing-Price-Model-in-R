@@ -1,5 +1,5 @@
 ---
-title: "Rgression Model for Housig Prices by Nick Al-Rehany"
+title: "Regression Model for Housig Prices by Nick Al-Rehany"
 ---
 
 # Load various libraries for data manipulation, extraction, and visualization
