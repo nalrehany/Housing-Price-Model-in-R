@@ -1,5 +1,5 @@
 ---
-title: "Assignment 2 by Nicholas Al-Rehany"
+title: "Rgression Model for Housig Prices by Nick Al-Rehany"
 ---
 
 # Load various libraries for data manipulation, extraction, and visualization
@@ -28,7 +28,7 @@ options(scipen=999)
 hamilton_ctb <- readOGR("https://raw.githubusercontent.com/gisUTM/GGR376/master/Lab_1/houseValues.geojson")
 
 #Read in explanatory variable attributes to hamilton_variables (potenial explanatory variables for house value in hamilton)
-hamilton_variables <- read.csv("C://Users//Bashar//Downloads//ham_variables.csv")
+hamilton_variables <- read.csv("C://Users//Nick//Downloads//ham_variables.csv")
 
 ```
 
